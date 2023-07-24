@@ -2,11 +2,11 @@
 
 
 <h1 align="center">Blacklion567</h1>
-<h3 align="center">A Aspiring frontend developer from Philippines</h3>
+<h3 align="center">A passionate frontend developer from Philippines</h3>
 
+- 📫 How to reach me **naviedaj567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **naviedaj567@gmail.com**
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/blacklion567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/blacklion567" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" height="30" width="40" /></a>
