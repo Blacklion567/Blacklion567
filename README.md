@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<div class="background-color:#000;">
-<h1 align="center">Blacklion567 bringcola</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blacklion567&label=Profile%20views&color=0e75b6&style=flat" alt="blacklion567" /> </p>
+<h1 align="center">Blacklion567</h1>
+<h3 align="center">A Aspiring frontend developer from Philippines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blacklion567" alt="blacklion567" /></a> </p>
-
-- 📫 How to reach me **naviedaj567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **naviedaj567@gmail.com**
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/blacklion567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/blacklion567" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" height="30" width="40" /></a>
@@ -27,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blacklion567&show_icons=true&locale=en" alt="blacklion567" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blacklion567&" alt="blacklion567" /></p>
-</div>
