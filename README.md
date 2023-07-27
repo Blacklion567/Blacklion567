@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS , Javascript(JS)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Blacklion567](https://github.com/Blacklion567)
+- 👨‍💻 All of my projects are available at [https://github.com/Blacklion567]([https://github.com/Blacklion567](https://github.com/Blacklion567?tab=repositories))
 
 - 📫 How to reach me **naviedaj567@gmail.com**
 
