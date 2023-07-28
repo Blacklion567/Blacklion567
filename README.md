@@ -1,28 +1,68 @@
-### Hi there 👋
+# Hi 👋 !
 
-<h1 align="center">Blacklion567 bringcola</h1>
-<h3 align="center">Aspiring Frontend Developer from Philippines</h3>
+## I'm Blacklion567 (Jade Ivan V. Bringcola)
 
-- 🌱 I’m currently learning **HTML, CSS , Javascript(JS)**
+<em><small style='font-size:12px;'> Many people said that this is a place to mine Gold and Diamond! </small></em>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Blacklion567](https://github.com/Blacklion567?tab=repositories)
+<a href="https://github.com/Blacklion567">GitHub</a>, <a href="https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/">LinkedIn</a> and <a href="https://twitter.com/JBringcola">Twitter</a>.
 
-- 📫 How to reach me **naviedaj567@gmail.com**
+In addition, you may subscribe to my channel, <em><a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw">Washera</a></em> for video content about HTML, CSS, JS, TypeScript, React, Redux, Node, MongoDB, MYSQL, and Python.
 
-- ⚡ Fun fact **I Think I'm A Hardworking Student who's slow learner**
+![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/blacklion567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/blacklion567" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/him.blacklion567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/him.blacklion567" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ban.teach101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ban.teach101" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/bandev567/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bandev567/" height="30" width="40" /></a>
-</p>
+## Technologies which I teach and use:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Frontend Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blacklion567&show_icons=true&locale=en" alt="blacklion567" /></p>
+<div>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
+  <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
+<div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blacklion567&" alt="blacklion567" /></p>
+### Backend Technologies
+
+<div>
+  <img src ="./images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
+  <img src ="./images/express.svg" alt="express logo" width="5%" title='Express'/>
+  <img src ="./images/mongodb.svg" alt="D3 logo" width="5%" title='MongoDB'/>
+  <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
+  <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
+  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
+</div>
+
+### Upcoming challenges
+
+- 30DaysOfReact
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout)](https://github.com/asabeneh/github-readme-stats)
+
+### Support the Author
+
+By messaging me at <a href="https://web.facebook.com/him.blacklion567">Facebook:
+
+<div>
+Knowleadge For Now <br />
+✅ HTML <br />
+✅ CSS <br />
+✅ Git and GitHub <br />
+✅ JavaScript <br />
+✅ Basic Fundamentals Python, C++ <br />
+❌ React <br />
+ </div>
+
+---
+
+<!-- ## Tech Stacks
+- MEEN Stack
+- MERN Stack
+- JAM Stack
+- MRF Stack
+ -->
+
+---
+
+<small> \_I will do my best as always thank you for supporting me. </small>
