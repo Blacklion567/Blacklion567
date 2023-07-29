@@ -35,17 +35,26 @@
   <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS-Code logo" width="5%" title='VS-Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
-  
+
+
+
+### Done challenges
+
+- 30Days-Javascript-Improving.
+- Python-Task (School Tasks).
+- Cpp-Programming (School Tasks).
+
+### Ongiong challenge.
+
+-Little-Projects-HTML-CSS-JS
+
 ### Upcoming challenges
 
 - 30-Days-Of-React.
 
-### Support the Author
 
-By messaging me at <a href="https://web.facebook.com/him.blacklion567">Facebook:
-
+### Knowleadge For Now
 <div>
-Knowleadge For Now <br />
 ✅ HTML <br />
 ✅ CSS <br />
 ✅ Git and GitHub <br />
@@ -57,12 +66,12 @@ Knowleadge For Now <br />
 ---
 
 <!-- ## Tech Stacks
-- MEEN Stack
-- MERN Stack
-- JAM Stack
-- MRF Stack
+- FrontEnd Developer (Aspiring FrontEnd Developer).
+- UX/UI.
+- MERN Stack.
+
  -->
 
 ---
 
-<small> \_I will do my best as always thank you for supporting me. </small>
+<small> I will do my best as always thank you for supporting me. </small>
