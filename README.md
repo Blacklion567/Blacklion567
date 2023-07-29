@@ -2,7 +2,7 @@
 
 ## I'm Blacklion567 (Jade Ivan V. Bringcola)
 
-<em><small style='font-size:12px;'> Many people said that this is a place to mine Gold and Diamond! </small></em>
+<em><small style='font-size:12px;'> Many people believe that practice makes perfect, however this is untrue; practice really leads to progress.</small></em>
 
 <a href="https://github.com/Blacklion567">GitHub</a>, <a href="https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/">LinkedIn</a> and <a href="https://twitter.com/JBringcola">Twitter</a>.
 
@@ -28,6 +28,7 @@
   <img src ="./images/mongodb.svg" alt="D3 logo" width="5%" title='MongoDB'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
+    <img src ="./images/ISO_C++_Logo.svg" alt="C++ logo" width="5%" title='C++'/>
 </div>
 
 ### Tools That I use
