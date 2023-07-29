@@ -6,9 +6,6 @@
 
 <a href="https://github.com/Blacklion567">GitHub</a>, <a href="https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/">LinkedIn</a> and <a href="https://twitter.com/JBringcola">Twitter</a>.
 
-In addition, you may subscribe to my channel, <em><a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw">Washera</a></em> for video content about HTML, CSS, JS, TypeScript, React, Redux, Node, MongoDB, MYSQL, and Python.
-
-![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 
 ## Technologies which I teach and use:
 
@@ -30,15 +27,17 @@ In addition, you may subscribe to my channel, <em><a href="https://www.youtube.c
   <img src ="./images/express.svg" alt="express logo" width="5%" title='Express'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="5%" title='MongoDB'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
 </div>
 
+### Tools That I use
+  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS-Code logo" width="5%" title='VS-Code'/>
+  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
+  
 ### Upcoming challenges
 
-- 30DaysOfReact
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout)](https://github.com/asabeneh/github-readme-stats)
+- 30-Days-Of-React.
 
 ### Support the Author
 
