@@ -20,16 +20,6 @@
   <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
 <div>
 
-### Backend Technologies
-
-<div>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="express logo" width="5%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="5%" title='MongoDB'/>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
-  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-    <img src ="./images/ISO_C++_Logo.svg" alt="C++ logo" width="5%" title='C++'/>
-</div>
 
 ### Tools That I use
   <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
@@ -40,17 +30,22 @@
 
 ### Done challenges
 
-- 30Days-Javascript-Improving.
 - Python-Task (School Tasks).
 - Cpp-Programming (School Tasks).
+- 30Days-Javascript-Improving.
 
-### Ongiong challenge.
+### Ongoing challenge.
 
 -Little-Projects-HTML-CSS-JS
 
 ### Upcoming challenges
 
+- 30-Days-Of-HTML.
+- 30-git-practice.
 - 30-Days-Of-React.
+- react-projects.
+- html-css-frameworks
+- coding-interview-algorithms-data-structures 
 
 
 ### Knowleadge For Now
