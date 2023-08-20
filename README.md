@@ -40,13 +40,10 @@
 
 ### Upcoming challenges
 
-- 30-Days-Of-HTML.
-- 30-git-practice.
 - 30-Days-Of-React.
 - react-projects.
-- html-css-frameworks
-- coding-interview-algorithms-data-structures 
-
+- 30-Days-Of-HTML.
+- 30-git-practice.
 
 ### Knowleadge For Now
 <div>
