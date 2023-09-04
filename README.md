@@ -1,11 +1,17 @@
 <h1 align="center">Blacklion567 bringcola</h1>
 <h3 align="center">A passionate Frontend Developer from Philippines</h3>
 
-- 🌱 I’m currently learning **HTML, CSS , Javascript(JS)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Blacklion567](https://github.com/Blacklion567)
-
-- 📫 How to reach me **naviedaj567@gmail.com**
+- 🌱 **Knowleadge For Now**
+<div>
+✅ HTML <br />
+✅ CSS <br />
+✅ JavaScript <br />
+✅ SASS <br>
+✅ React <br />
+✅ Bootstrap <br />
+✅ Git and GitHub <br />
+✅ Basic Fundamentals Python, C++ <br />
+ </div>
 
 - ⚡ Fun fact **I Think I'm A Hardworking Student who's slow learner**
 
@@ -20,27 +26,15 @@
 
 - 30-Days-Of-HTML.
 
-
 ### Upcoming challenges
 
 - 30-Days-Of-React.
 - react-projects.
 - 30-git-practice.
 
-### Knowleadge For Now
-<div>
-✅ HTML <br />
-✅ CSS <br />
-✅ JavaScript <br />
-✅ SASS <br>
-✅ React <br />
-✅ Bootstrap <br />
-✅ Git and GitHub <br />
-✅ Basic Fundamentals Python, C++ <br />
- </div>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 📫 Connect with me: <a href="naviedaj567@gmail.com" target="_blank">naviedaj567@gmail.com</a></h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/blacklion567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/blacklion567" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" height="30" width="40" /></a>
