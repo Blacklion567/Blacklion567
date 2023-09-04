@@ -1,5 +1,5 @@
 <h1 align="center">Blacklion567 bringcola</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate Frontend Developer from Philippines</h3>
 
 - 🌱 I’m currently learning **HTML, CSS , Javascript(JS)**
 
