@@ -22,17 +22,19 @@
 - Python-Task (School Tasks).
 - Cpp-Programming (School Tasks).
 - 30Days-Javascript-Improving.
-- -Little-Projects-HTML-CSS-JS
+- Little-Projects-HTML-CSS-JS
+- 30-Days-Of-HTML.
 
 ### Ongoing challenge.
 
-- 30-Days-Of-HTML.
+- 30-git-practice.
+
 
 ### Upcoming challenges
 
 - 30-Days-Of-React.
 - react-projects.
-- 30-git-practice.
+
 
 
 <h3 align="left"> 📫 Connect with me:</h3>
