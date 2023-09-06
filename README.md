@@ -39,7 +39,7 @@
 
 <h3 align="left"> 📫 Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/blacklion567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/blacklion567" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/Blacklion567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/blacklion567" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/him.blacklion567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/him.blacklion567" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ban.teach101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ban.teach101" height="30" width="40" /></a>
