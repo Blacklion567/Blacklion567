@@ -1,4 +1,4 @@
-<h2 align="left"><Frontend Enthusiast/></h2>
+<h2 align="left"><Frontend-Enthusiast/></h2>
 
 <h3 align="left"> 📫 Connect with me:</h3>
 <div align="left">
