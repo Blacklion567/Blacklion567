@@ -60,8 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blacklion567&" alt="blacklion567" /></p>
- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Blacklion567&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blacklion567&theme=tokyonight&hide_border=false)<br/>
