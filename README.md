@@ -69,7 +69,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blacklion567&theme=tokyonight&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Blacklion567&icon=7&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Blacklion567&style=for-the-badge)
 
 <!--
 ## Tech Stacks
