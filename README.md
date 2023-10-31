@@ -62,9 +62,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Blacklion567&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blacklion567&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blacklion567&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Blacklion567&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blacklion567&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Blacklion567&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Blacklion567&icon=7&color=1)](https://visitcount.itsvg.in)
