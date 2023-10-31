@@ -1,5 +1,7 @@
 <h2 style="color: white; ">Frontend-Enthusiast</h2>
+
 # 💻 Tech Stack
+
 <p>Because I'm still learning how to use some of the technology, some of it is not being utilized.</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
@@ -63,8 +65,8 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blacklion567&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Blacklion567&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Blacklion567&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Blacklion567&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Blacklion567&theme=tokyonight&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Blacklion567&icon=7&color=1)](https://visitcount.itsvg.in)
