@@ -68,6 +68,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Blacklion567&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blacklion567&theme=tokyonight&hide_border=false)
 
+
+[![Blacklion567 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blacklion567&theme=dracula)](https://github.com/Blacklion567/github-readme-activity-graph)
+
 ---
 ![](https://komarev.com/ghpvc/?username=Blacklion567&style=for-the-badge)
 
