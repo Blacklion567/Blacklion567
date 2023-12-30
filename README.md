@@ -138,6 +138,41 @@
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
 
+  <a href="https://github.com/Blacklion567/100-Little-Projects-HTML-CSS-JS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=100-Little-Projects-HTML-CSS-JS" width="49%" alt="100-Little-Projects-HTML-CSS-JS"/>
+  </a>
+  <a href="https://github.com/Blacklion567/https://github.com/Blacklion567/30Days-Javascript-Improving." target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-Javascript-Improving." width="49%" alt="30Days-Javascript-Improving."/>
+  </a>
+    <a href="https://github.com/Blacklion567/useful-custom-react-hooks" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=useful-custom-react-hooks" width="49%" alt="useful-custom-react-hooks"/>
+  </a>
+  <a href="https://github.com/Blacklion567/10-Projects-Hour" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=10-Projects-Hour" width="49%" alt="10-Projects-Hour"/>
+  </a>
+
+  <a href="https://github.com/Blacklion567/React-2023-Course" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=React-2023-Course" width="49%" alt="React-2023-Course"/>
+  </a>
+  <a href="https://github.com/Blacklion567/React-Projects--2023" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=React-Projects--2023" width="49%" alt="React-Projects--2023"/>
+  </a>
+  <a href="https://github.com/Blacklion567/30Days-Learn-HTML" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-Learn-HTML" width="49%" alt="30Days-Learn-HTML"/>
+  </a>
+  <a href="https://github.com/Blacklion567/git-practice" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=git-practice" width="49%" alt="git-practice"/>
+  </a>
+
+  <a href="https://github.com/Blacklion567/Python-Task" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=Python-Task" width="49%" alt="Python-Task"/>
+  </a>
+  <a href="https://github.com/Blacklion567/School-Year-Projects-Capstone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=School-Year-Projects-Capstone" width="49%" alt="School-Year-Projects-Capstone"/>
+  </a>
+      <a href="https://github.com/Blacklion567/Cplusplus-Task" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=Cplusplus-Task" width="49%" alt="Cplusplus-Task"/>
+  </a>
 <!--
 ## Tech Stacks
 - FrontEnd Developer (Aspiring FrontEnd Developer).
