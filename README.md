@@ -181,9 +181,7 @@
 </div>
 <div align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Blacklion567/382532ff-5057-45a2-b975-14ab938e7e7c.png" align="left" width="20%" height="370"/></a>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Blacklion567/9f44e74a-ef57-4922-907d-d97b65139e42.png" width="80%" height="370"/></a>
-</div>
-<div align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Blacklion567/9f44e74a-ef57-4922-907d-d97b65139e42.png" width="80%" height="370" align="right"/></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blacklion567&custom_title=Blacklion567's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Blacklion567's Github Activity Graph" width="100%">
 </div>
 
