@@ -57,12 +57,6 @@
   <a href="https://twitter.com/JBringcola" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://codesandbox.io/dashboard/recent?workspace=403329b2-5932-47cd-82fa-96105cd4b5d7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
-  </a>
-  <a href="https://codepen.io/Blacklion567" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
 
 <div align="center">
   <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%"/><br>
@@ -73,67 +67,128 @@
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
-  <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blacklion567&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
-  <br>
+<div align="center">
+<table align="center">
+<!-- Frontend Technologies Badges -->
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/javascript-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="35" width="100"/>
+    </td>
+        <td align="center">
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="35" width="100"/>
+    </td>
+  </tr>
+  <tr>
+      <td align="center">
+      <img src="  https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" height="35" width="100"/>
+    </td>
+  </tr>
+  <tr>
+<!-- Backend Technologies Badges -->
+     <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="35" width="100"/>
+    </td>
+        <td align="center">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="tailwind" height="35" width="100"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" height="35" width="100"/>
+    </td>
+     <td align="center">
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="35" width="100"/>
+    </td>
+    <td align="center" >
+      <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" height="35" width="100"/>
+    </td>
+        <td align="center">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html5" height="35" width="100"/>
+    </td>
+  </tr>
+  <!-- Tools Technologies Badges Table -->
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"  align="center" alt="github" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src = "https://img.shields.io/badge/NPM-CA4245?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" align="center" alt="git" height="35" width="100"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  align="center" alt="vscode" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Open%20AI-0f9e7b.svg?style=for-the-badge&logo=openAI&logoColor=white"  align="center" alt="open-AI" height="35" width="100"/>
+    </td>
+        <td align="center">
+      <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" align="center" alt="powershell" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" align="center" alt="Xampp" height="35" width="100"/>
+    </td>
 
-  <a href="https://wakatime.com/@Blacklion567" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Blacklion567&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
-  </a>
-
-<p>Because I'm still learning how to use some of the technology, some of it is not being utilized.</p>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+  </tr>
+</table>
+</div>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Blacklion567&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=Blacklion567&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Blacklion567&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
-</div> <br>
+  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Blacklion567&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
 
+  <a href="https://wakatime.com/@Blacklion567" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=Blacklion567&theme=radical" width="50%" alt="streaks graph" />
+  </a>
+    <a href="https://wakatime.com/@Blacklion567" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blacklion567&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" /></a>
+    <a href="https://wakatime.com/@Blacklion567" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blacklion567&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages" width="49%" ></a>
+  <a href="https://wakatime.com/@Blacklion567" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Blacklion567&theme=radical&layout=compact" alt="Wakatime Coding Time" width="49%">
+  </a>
+</div>
+<div align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Blacklion567/382532ff-5057-45a2-b975-14ab938e7e7c.png" align="left" width="20%" height="370"/></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Blacklion567/9f44e74a-ef57-4922-907d-d97b65139e42.png" width="80%" height="370"/></a>
+</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blacklion567&custom_title=Blacklion567's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Blacklion567's Github Activity Graph" width="100%">
 </div>
-</br>
-
-<h2></h2>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
-<small> I will do my best as always thank you for supporting me. </small>
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
@@ -159,20 +214,15 @@
   </a>
   <a href="https://github.com/Blacklion567/30Days-Learn-HTML" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-Learn-HTML" width="49%" alt="30Days-Learn-HTML"/>
-  </a>
-  <a href="https://github.com/Blacklion567/git-practice" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=git-practice" width="49%" alt="git-practice"/>
-  </a>
-
-  <a href="https://github.com/Blacklion567/Python-Task" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=Python-Task" width="49%" alt="Python-Task"/>
-  </a>
-  <a href="https://github.com/Blacklion567/School-Year-Projects-Capstone" target="_blank">
+  </a>   <a href="https://github.com/Blacklion567/School-Year-Projects-Capstone" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=School-Year-Projects-Capstone" width="49%" alt="School-Year-Projects-Capstone"/>
-  </a>
-      <a href="https://github.com/Blacklion567/Cplusplus-Task" target="_blank">
+  </a><a href="https://github.com/Blacklion567/Python-Task" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=Python-Task" width="49%" alt="Python-Task"/>
+  </a><a href="https://github.com/Blacklion567/Cplusplus-Task" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=Cplusplus-Task" width="49%" alt="Cplusplus-Task"/>
   </a>
+  </div>
+
 <!--
 ## Tech Stacks
 - FrontEnd Developer (Aspiring FrontEnd Developer).
