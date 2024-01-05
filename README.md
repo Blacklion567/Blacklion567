@@ -81,13 +81,13 @@
     <td align="center">
       <img src="https://img.shields.io/badge/javascript-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="35" width="100"/>
     </td>
-        <td align="center">
+      <td align="center">
       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="35" width="100"/>
     </td>
   </tr>
   <tr>
       <td align="center">
-      <img src="  https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" height="35" width="100"/>
+      <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" height="35" width="100"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="35" width="100"/>
