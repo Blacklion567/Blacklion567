@@ -20,7 +20,7 @@
 
 <h2 align="center"> <img src="./assets/animated-flame-01.gif" width="14px"/>Aspiring MERN-Stack <img src="./assets/animated-flame-01.gif" width="14px"/> <br> Self-taught Programmer</h2><br>
 
-- 👨‍💻 I'm Jade Ivan (Blacklion567)👋, a college student, I'm currently pursuing a Bachelor of Science and Information Technology in the Philippines. <br><br>
+- 👨‍💻 I'm Jade Ivan (Blacklion567)👋, a college student, I'm currently pursuing a Bachelor of Science in Information Technology (Programming) in the Philippines. <br><br>
 
 - 🌳 I’m currently learning to be better at coding and using all my knowledge to get better! <br><br>
 
