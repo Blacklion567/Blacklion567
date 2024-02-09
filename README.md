@@ -99,6 +99,7 @@
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" height="35" width="100"/>
     </td>
   </tr>
+
   <tr>
 <!-- Backend Technologies Badges -->
      <td align="center">
@@ -131,7 +132,7 @@
   <!-- Tools Technologies Badges Table -->
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"  align="center" alt="github" height="35" width="100"/>
+      <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"  align="center" alt="github" height="35" width="100"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github" height="35" width="100"/>
@@ -156,8 +157,23 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" align="center" alt="Xampp" height="35" width="100"/>
     </td>
-
   </tr>
+
+  <tr>
+      <td align="center">
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" align="center" alt="Xampp" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"  align="center" alt="vscode" height="35" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"  align="center" alt="open-AI" height="35" width="100"/>
+    </td>
+        <td align="center">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" align="center" alt="powershell" height="35" width="100"/>
+    </td>
+  </tr>
+
 </table>
 </div>
 
@@ -188,12 +204,16 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-
-  <a href="https://github.com/Blacklion567/100-Little-Projects-HTML-CSS-JS" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=100-Little-Projects-HTML-CSS-JS" width="49%" alt="100-Little-Projects-HTML-CSS-JS"/>
-  </a>
-  <a href="https://github.com/Blacklion567/https://github.com/Blacklion567/30Days-Javascript-Improving." target="_blank">
+  <a href="https://github.com/Blacklion567/30Days-Learn-HTML" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-Learn-HTML" width="49%" alt="30Days-Learn-HTML"/>
+  </a>  <a href="https://github.com/Blacklion567/https://github.com/Blacklion567/30Days-Javascript-Improving." target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-Javascript-Improving." width="49%" alt="30Days-Javascript-Improving."/>
+  </a>
+
+  <a href="https://github.com/Blacklion567/30Days-React-Course" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-React-Course" width="49%" alt="React-Course"/>
+  </a> <a href="https://github.com/Blacklion567/100-Little-Projects-HTML-CSS-JS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=100-Little-Projects-HTML-CSS-JS" width="49%" alt="100-Little-Projects-HTML-CSS-JS"/>
   </a>
     <a href="https://github.com/Blacklion567/useful-custom-react-hooks" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=useful-custom-react-hooks" width="49%" alt="useful-custom-react-hooks"/>
@@ -201,16 +221,9 @@
   <a href="https://github.com/Blacklion567/10-Projects-Hour" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=10-Projects-Hour" width="49%" alt="10-Projects-Hour"/>
   </a>
-
-  <a href="https://github.com/Blacklion567/React-2023-Course" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=React-2023-Course" width="49%" alt="React-2023-Course"/>
-  </a>
-  <a href="https://github.com/Blacklion567/React-Projects--2023" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=React-Projects--2023" width="49%" alt="React-Projects--2023"/>
-  </a>
-  <a href="https://github.com/Blacklion567/30Days-Learn-HTML" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-Learn-HTML" width="49%" alt="30Days-Learn-HTML"/>
-  </a>   <a href="https://github.com/Blacklion567/School-Year-Projects-Capstone" target="_blank">
+  <a href="https://github.com/Blacklion567/React-Projects" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=React-Projects" width="49%" alt="React-Projects"/>
+  </a><a href="https://github.com/Blacklion567/School-Year-Projects-Capstone" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=School-Year-Projects-Capstone" width="49%" alt="School-Year-Projects-Capstone"/>
   </a><a href="https://github.com/Blacklion567/Python-Task" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=Python-Task" width="49%" alt="Python-Task"/>
