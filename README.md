@@ -28,8 +28,9 @@
 
 - 🌊 2024 Goals: Learn MERN-Stack and Frontend and Contribute to Open Source Projects. <br><br>
 
-- ☕ Interest: Coffee, Learning and Coding. <br><br><br>
+- ☕ Interest: Coffee, Learning and Coding. <br><br>
 - <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Drawing, Reading, Anime, Manga, Manhua, Manhwa, and Facebook. <br><br>
+- <img src="./Resume.svg" height="16px"/> My Resume: <a href="./Blacklion567.pdf" download>RESUME</a><br><br>
 
 <h2></h2>
 
@@ -206,7 +207,7 @@
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   <a href="https://github.com/Blacklion567/30Days-Learn-HTML" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-Learn-HTML" width="49%" alt="30Days-Learn-HTML"/>
-  </a>  <a href="https://github.com/Blacklion567/https://github.com/Blacklion567/30Days-Javascript-Improving." target="_blank">
+  </a>  <a href="https://github.com/Blacklion567/30Days-Javascript-Improving." target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-Javascript-Improving." width="49%" alt="30Days-Javascript-Improving."/>
   </a>
 
