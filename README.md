@@ -30,7 +30,7 @@
 
 - ☕ Interest: Coffee, Learning and Coding. <br><br>
 - <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Drawing, Reading, Anime, Manga, Manhua, Manhwa, and Facebook. <br><br>
-- <img src="./Resume.svg" height="16px"/> My Resume: <a href="./Blacklion567.pdf" download>RESUME</a><br><br>
+- <img src="./Resume.svg" height="16px"/> My Resume: <a href="./Resume.png" download>RESUME</a><br><br>
 
 <h2></h2>
 
