@@ -205,13 +205,12 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
+
   <a href="https://github.com/Blacklion567/30Days-Learn-HTML" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-Learn-HTML" width="49%" alt="30Days-Learn-HTML"/>
   </a>  <a href="https://github.com/Blacklion567/30Days-Javascript-Improving." target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-Javascript-Improving." width="49%" alt="30Days-Javascript-Improving."/>
-  </a>
-
-  <a href="https://github.com/Blacklion567/30Days-React-Course" target="_blank">
+  </a><a href="https://github.com/Blacklion567/30Days-React-Course" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=30Days-React-Course" width="49%" alt="React-Course"/>
   </a> <a href="https://github.com/Blacklion567/100-Little-Projects-HTML-CSS-JS" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=100-Little-Projects-HTML-CSS-JS" width="49%" alt="100-Little-Projects-HTML-CSS-JS"/>
@@ -226,11 +225,14 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=React-Projects" width="49%" alt="React-Projects"/>
   </a><a href="https://github.com/Blacklion567/School-Year-Projects-Capstone" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=School-Year-Projects-Capstone" width="49%" alt="School-Year-Projects-Capstone"/>
-  </a><a href="https://github.com/Blacklion567/Python-Task" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=Python-Task" width="49%" alt="Python-Task"/>
-  </a><a href="https://github.com/Blacklion567/Cplusplus-Task" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=Cplusplus-Task" width="49%" alt="Cplusplus-Task"/>
   </a>
+     <a href="https://github.com/Blacklion567/OpenWeatherMap-API" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=OpenWeatherMap-API" width="49%"alt="OpenWeatherMap-API"/>
+  </a>
+  <a href="https://github.com/Blacklion567/PizzaBan" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blacklion567&theme=radical&repo=PizzaBan" width="49%" alt="PizzaBan"/>
+  </a>
+
   </div>
 <div align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Blacklion567/382532ff-5057-45a2-b975-14ab938e7e7c.png" align="left"/></a>
